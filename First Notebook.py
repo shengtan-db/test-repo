@@ -9,7 +9,7 @@ values_list = ['blue', 'red', 'bold']
 
 #There are 3 ways to convert these two lists into a dictionary
 #1- Using Python's zip, dict functionz
-# some merge conflict here
+make some changes also
 
 #2- Using the zip function with dictionary comprehensions
 dict_method_2 = {key:value for key, value in zip(keys_list, values_list)}
