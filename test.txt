@@ -1,5 +1,4 @@
 hello test
-hi
 print(2)
 no koi
 other edits
