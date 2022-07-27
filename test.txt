@@ -7,3 +7,4 @@ dfdfdf
 more
 new
 cause merge conflict
+line 10 conflict
