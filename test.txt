@@ -6,5 +6,4 @@ asdfdf
 dfdfdf
 more
 new
-cause merge conflict
-eeeeee
+main-conflict
