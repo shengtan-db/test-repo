@@ -7,4 +7,4 @@ dfdfdf
 more
 new
 cause merge conflict
-line 10 conflict
+conflict 2
