@@ -7,4 +7,4 @@ dfdfdf
 more
 new
 main-conflict
-some conflict2
+merge conflict!
