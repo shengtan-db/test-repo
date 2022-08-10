@@ -8,3 +8,4 @@ more
 new
 main-conflict
 merge conflict!
+oooooooo
