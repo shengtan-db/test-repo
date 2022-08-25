@@ -9,3 +9,6 @@ new
 main-conflict
 merge conflict!
 oooooooo
+oijijo
+more
+more
