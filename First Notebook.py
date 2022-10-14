@@ -24,6 +24,7 @@ for key, value in items_tuples:
         pass # To avoid repeating keys.
     else: 
         dict_method_3[key] = value
+        #some stuff
         
 # some new commit
 
